@@ -5,28 +5,28 @@
       "osiedle": "Winiary",
       "mandaty": "5",
       "nr-okregu": "I",
-      "nr-obwodu": "1",
+      "nr-obwodu": "1"
     },
     {
       "nr": "2",
       "osiedle": "Dębiec",
       "mandaty": "5",
       "nr-okregu": "II",
-      "nr-obwodu": "2",
+      "nr-obwodu": "2"
     },
     {
       "nr": "3",
       "osiedle": "Wilda",
       "mandaty": "4",
       "nr-okregu": "III",
-      "nr-obwodu": "3",
+      "nr-obwodu": "3"
     },
     {
       "nr": "4",
       "osiedle": "Ogrody",
       "mandaty": "4",
       "nr-okregu": "IV",
-      "nr-obwodu": "4",
+      "nr-obwodu": "4
     }
 
   ]
