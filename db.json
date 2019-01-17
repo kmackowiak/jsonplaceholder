@@ -1,0 +1,39 @@
+[
+  {
+    "nr": "1",
+    "osiedle": "Winiary",
+    "mandaty": "5",
+    "nr-okregu": "I",
+    "nr-obwodu": "1",
+    "granica": "ul. Chełmińska wszystkie adresy, ul. gen. Stanisława Maczka wszystkie adresy, ul. Michałowska wszystkie adresy, ul. Piątkowska nieparzyste 39-65a, parzyste 64-76, ul. Sochaczewska wszystkie adresy, ul. Sokoła nieparzyste 1-45, parzyste 2a-38, ul. Szydłowska nieparzyste 1-21, parzyste 2-26, ul. Urbanowska parzyste 2-38, ul. Źródlana nieparzyste 1-21, parzyste 4-38.",
+    "siedziba": "Szkoła Podstawowa nr 89 im. Krzysztofa Kamila Baczyńskiego, ul. Sochaczewska 3"
+  },
+  {
+    "nr": "2",
+    "osiedle": "Dębiec",
+    "mandaty": "5",
+    "nr-okregu": "II",
+    "nr-obwodu": "2",
+    "granica": "ul. Korwetowa wszystkie adresy, ul. Koszalińska nieparzyste 45-71a, parzyste 40-68,ul. ks. Edwarda Nawrota wszystkie adresy, ul. Liliowa wszystkie adresy, ul. Łagiewnicka wszystkie adresy, ul. Marynarska wszystkie adresy, ul. Morska wszystkie adresy, ul. NadJeziorem wszystkie adresy, ul. Nad Przeźmierką wszystkie adresy, ul. Nawigacyjna wszystkie adresy, ul. Okrętowa wszystkie adresy, ul. Pawłowicka wszystkie adresy, ul. Podjazdowa wszystkie adresy, ul. Psarskie nieparzyste 1-23, parzyste 2-24a",
+    "siedziba": "Szkoła Podstawowa nr 343423"
+  },
+  {
+    "nr": "3",
+    "osiedle": "Wilda",
+    "mandaty": "4",
+    "nr-okregu": "III",
+    "nr-obwodu": "3",
+    "granica": "ul. Samuela Lindego wszystkie adresy, ul. Stanisława Przybyszewskiego parzyste 8-28, ul. Stefana Żeromskiego nieparzyste 3-39, ul. Szamotulska parzyste 78-100, ul. św. Wawrzyńca parzyste 62-96, ul. Wawrzyńca Engeströma wszystkie adresy, ul. Wilkońskich wszystkie adresy,ul. Zofii Nałkowskiej wszystkie adresy",
+    "siedziba": "Szkoła Podstawowa nr fdsfdsfsdfdsfds"
+  },
+  {
+    "nr": "4",
+    "osiedle": "Ogrody",
+    "mandaty": "4",
+    "nr-okregu": "IV",
+    "nr-obwodu": "4",
+    "granica": "ul. Luba wszystkie adresy, ul. Miodowa nieparzyste 9-35,\nparzyste 2-6, 8-34, ul. Nowina wszystkie adresy, ul. Nowy Świat parzyste 2-10b,\nul. Piękna wszystkie adresy, ul. Polska parzyste 10-26, 30-108, ul. Radosna\nwszystkie adresy, ul. Swojska wszystkie adresy, ul. Szafirowa wszystkie adresy,\nul. Szczęsna wszystkie adresy",
+    "siedziba": "Szkoła Pdsadwaewe"
+  }
+
+]
